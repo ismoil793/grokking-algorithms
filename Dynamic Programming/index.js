@@ -1,0 +1,4 @@
+/*
+	Dynamic Programming
+	Devide task into smaller subtasks to solve a problem
+*/

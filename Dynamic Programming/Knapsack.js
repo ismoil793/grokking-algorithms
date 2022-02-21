@@ -1,0 +1,4 @@
+/*
+	Knapsack problem is a good way to show
+    how Dynamic Programming works
+*/
